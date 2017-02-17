@@ -1,0 +1,14 @@
+{
+    "name": "250730506/composer",
+    "description": "composer study",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "250730506",
+            "email": "wenzhonghua@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
