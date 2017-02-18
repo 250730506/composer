@@ -1,4 +1,4 @@
 <?php
-include "vendor\autoload.php";
-	bootstrap::run();
+include "vendor/autoload.php";
+	core\bootstrap::run();
 ?>
