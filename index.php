@@ -1,3 +1,4 @@
 <?php
-	echo '这是个测试';
+include "vendor\autoload.php";
+	bootstrap::run();
 ?>
